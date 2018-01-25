@@ -5,3 +5,8 @@
 	border:solid 1px #ff00ff;
 	padding: 25px;
 }
+
+p{
+	text-decoration: underline;
+	color: blue;
+}
